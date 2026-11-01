@@ -1,0 +1,7 @@
+{
+  "disableNativeAutomation": true,
+  "selectorTimeout": 15000,
+  "assertionTimeout": 15000,
+  "pageLoadTimeout": 45000,
+  "screenshots": {"path": "evidence", "takeOnFails": true, "fullPage": true}
+}

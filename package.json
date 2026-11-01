@@ -1,0 +1,12 @@
+{
+  "name": "jan-assignment3-partb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node run.cjs all",
+    "registration": "node run.cjs registration",
+    "login": "node run.cjs login",
+    "recovery": "node run.cjs recovery"
+  },
+  "devDependencies": {"testcafe": "3.7.2"}
+}
